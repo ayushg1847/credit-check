@@ -1,0 +1,51 @@
+Customer_ID,Applicant_Name,Credit_Score,Loan_Type
+CUS_0x284a,Nadiaq,799,"Credit-Builder, Home"
+CUS_0x284a,Nadiaq,797,"Credit-Builder, Home"
+CUS_0x284a,Nadiaq,779,"Credit-Builder, Home"
+CUS_0xd40,Aaron Maashoh,773,"Auto, Credit-Builder, Personal, Home"
+CUS_0x284a,Nadiaq,766,"Credit-Builder, Home"
+CUS_0xba08,Jamesj,765,Other
+CUS_0x21b1,Rick Rothackerj,756,Credit-Builder
+CUS_0xd40,Aaron Maashoh,756,"Auto, Credit-Builder, Personal, Home"
+CUS_0x21b1,Rick Rothackerj,754,Credit-Builder
+CUS_0xd40,Aaron Maashoh,753,"Auto, Credit-Builder, Personal, Home"
+CUS_0x2dbc,Langep,736,"Auto, Other"
+CUS_0x95ee,Np,735,No Active Loans
+CUS_0x95ee,Np,732,No Active Loans
+CUS_0xba08,Jamesj,732,Other
+CUS_0xc0ab,Soyoungd,728,Other
+CUS_0xd40,Aaron Maashoh,725,"Auto, Credit-Builder, Personal, Home"
+CUS_0x95ee,Np,724,No Active Loans
+CUS_0x2dbc,,724,"Auto, Other"
+CUS_0x2dbc,Langep,723,"Auto, Other"
+CUS_0x21b1,Rick Rothackerj,717,Credit-Builder
+CUS_0xba08,,716,Other
+CUS_0x4157,Charlie Zhur,716,"Personal, Other, Auto"
+CUS_0x4157,Charlie Zhur,709,"Personal, Other, Auto"
+CUS_0x21b1,Rick Rothackerj,709,Credit-Builder
+CUS_0xc0ab,Soyoungd,708,Other
+CUS_0xba08,Jamesj,708,Other
+CUS_0xc0ab,Soyoungd,704,Other
+CUS_0x4157,Charlie Zhur,699,"Personal, Other, Auto"
+CUS_0x4157,Charlie Zhur,694,"Personal, Other, Auto"
+CUS_0xb891,Jasond,681,Other
+CUS_0xc0ab,Soyoungd,679,Other
+CUS_0x2dbc,Langep,672,"Auto, Other"
+CUS_0xb891,Jasond,671,Other
+CUS_0xb891,Jasond,669,Other
+CUS_0x95ee,Np,667,No Active Loans
+CUS_0xb891,Jasond,666,Other
+CUS_0x1cdb,Deepaa,657,No Active Loans
+CUS_0x1cdb,Deepaa,651,No Active Loans
+CUS_0x3e45,Harriet McLeodd,648,"Other, Student, Personal"
+CUS_0x1cdb,Deepaa,646,No Active Loans
+CUS_0x3e45,Harriet McLeodd,646,"Other, Student, Personal"
+CUS_0x1cdb,Deepaa,640,No Active Loans
+CUS_0xa66b,Saphirj,639,"Credit-Builder, Personal, Auto"
+CUS_0xa66b,Saphirj,637,"Credit-Builder, Personal, Auto"
+CUS_0xa66b,Saphirj,627,"Credit-Builder, Personal, Auto"
+CUS_0xa66b,Saphirj,622,"Credit-Builder, Personal, Auto"
+CUS_0x5407,Annk,497,"Other, Auto, Student"
+CUS_0x5407,Annk,478,"Other, Auto, Student"
+CUS_0x5407,Annk,477,"Other, Auto, Student"
+CUS_0x5407,,475,"Other, Auto, Student"
